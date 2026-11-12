@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="840" viewBox="0 0 1200 420">
+  <title>Eliza Maria &amp; Eliane Sousa Advocacia</title>
+  <desc>Redesenho vetorial do logotipo a partir da referência fornecida, em dourado champagne.</desc>
+  <g fill="none" stroke="#C3AB78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M206 43 H386 M206 43 V377 H386"/>
+    <path d="M206 91 H323 M206 207 H323"/>
+    <path d="M177 78 H206 V342 H177 Q166 342 166 331 V89 Q166 78 177 78 Z"/>
+  </g>
+  <g fill="#C3AB78">
+    <text x="438" y="157" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="400" letter-spacing="0.5">Eliza Maria &amp;</text>
+    <text x="438" y="257" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="400" letter-spacing="0.5">Eliane Sousa</text>
+    <text x="440" y="337" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="400" letter-spacing="17">ADVOCACIA</text>
+  </g>
+</svg>
